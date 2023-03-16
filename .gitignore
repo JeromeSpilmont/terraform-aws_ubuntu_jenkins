@@ -1,0 +1,9 @@
+.DS_Store
+.terraform
+*.hcl
+*.pem
+*.tfstate
+*.tfstate.backup
+*.tfplan
+*.tfvars
+.terraform.tfstate.lock.info
